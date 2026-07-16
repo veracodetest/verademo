@@ -21,7 +21,7 @@ Blab-a-Gag is a fairly simple forum type application which allows:
 * `/tools` shows a tools page that shows a fortune or lets you ping a host.....
 
 
-## Run
+## Run...
 
 If you don't already have Docker this is a prerequisite.
 
